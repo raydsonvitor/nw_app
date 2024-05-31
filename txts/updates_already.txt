@@ -1,0 +1,42 @@
+v 2.0:
+
+> Ajeitar a soma dos faturamentos diasrios, semanais e mensais*
+
+> desbugar a questao de bugar a funcao atualizar quando tem despesa registrada*
+
+> Criar mecanismo de salvamento on-line dos arquivos do app\projeto*
+
+> Criar mecanismo que mostre no nav se o app tem ou nao acesso à internet ilustrando visualmete com cores verde(on-line) e vermelho(off-line)*
+
+> Editar a forma de a sucesso\fail message e feita: iniciando uma message box com aguarde...(ou fazendo tal coisa...) e depois esse conteudo seja substituido 
+pela message de sucesso ou fracasso, seguido do destroy do message box *
+
+> Criar App.exe do programa*
+
+> ajeitar a sinalzação das funcoes atualizar e deletar_treeview_data no terminal (prints)*
+
+*> Fazer função que verifica se a data do computador faz sentido
+
+*> Fazer a função get pgmt by form somar corretamente (usando o conceito de 'respectivamente') os valores e suas respectivas formas de pagamento.
+
+*> Adaptar as func obter fat semanal by barbeiro de tal forma que ela faça uso da lista de datas da semana armazenada no txt datas_semana,  
+economizando assim requerimentos continuos dos mesmos dados. (dica: sempre que for segunda e x == False, ela atualiza)
+
+> Fazer função que obtenha o total de bebidas vendidas na semana
+
+*> Trocar a forma de selecionar profissional na hora de registrar uma entrada: por meio de radiobuttons.
+
+> fazer o Entry dos valores desconsiderarem espaços vazios no inicio da string
+
+*> fazer a função ser capaz de reconhecer quando ha dias da semana no ano posterior.
+
+*> fazer o programa ser capaz de indicar em vermelho e letras pequenas em qual widget os dados de input de registro de entrada e saida foram colocados errado.
+fortalecendo assim o aviso que ja aparece em forma de msg box.
+
+> Fazer com que sempre que o programa calcular quais são as datas da semana, ela coloque essas datas dentro de txt
+
+*> acrescentar informações visulizaveis na tab movimentações: nº de atendimentos.
+
+> Adicionar a necessidade de senha para exclusão de alguma row no dtbs*
+
+> Adicinar showmessage para o caso de o caixa ser fechado com sucesso*

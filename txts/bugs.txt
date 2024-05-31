@@ -1,0 +1,1 @@
+> quando da erro na registrar entrada ele lanca na treeview mas nao na treeview

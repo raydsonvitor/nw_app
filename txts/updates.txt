@@ -1,0 +1,3 @@
+> Resolver falha que pode ocorrer  permitindo a criação de wb's ou ws's com nomes repetidos (na função Get_periodo)*
+
+> Adicionar a função refresh: se os widgets do modo de pgmt 2 estiverem ativos, remove-los
