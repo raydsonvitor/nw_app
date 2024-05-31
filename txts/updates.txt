@@ -1,0 +1,27 @@
+* fazer a função ser capaz de reconhecer quando ha dias da semana no ano posterior.
+
+> Fazer função que verifica se a data do computador faz sentido
+
+> fazer o programa ser capaz de indicar em vermelho e letras pequenas em qual widget os dados de input de registro de entrada e saida foram colocados errado.
+fortalecendo assim o aviso que ja aparece em forma de msg box.
+
+> Fazer que a data seja editavel de tal forma que seja possivel editar o dia para acessar os dados de outros dias através da treeview
+    Erros a serem corrigidos apos esse update:
+        >ajustar o mecanismo que gera as datas da semana de tal forma que as datas sejam atualizadas quando a 'data' not in 'datas da semana' e depois, ao 
+        retornar à data atual, traga de volta as datas da semana atuais.
+
+> acrescentar informações visulizaveis na tab movimentações: nº de atendimentos.
+
+> Fazer com que sempre que o programa calcular quais são as datas da semana, ela coloque essas datas dentro de txt
+
+> Adicionar a necessidade de senha para exclusão de alguma row no dtb e fechar o caixa
+
+> Adicinar showmessage para o caso de o caixa ser fechado com sucesso
+
+> melhorar função get faturamento semanal by criando mecanismo bool que indica se as datas da semana ja foram ou nao atualizadas.
+
+> ajeitar a sinalzação das funcoes atualizar e deletar_treeview_data no terminal (prints)
+
+> Fazer a função criar novo
+
+> Criar App.exe do programa

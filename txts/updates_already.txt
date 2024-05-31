@@ -1,0 +1,12 @@
+v 2.0:
+
+*> Fazer a função get pgmt by form somar corretamente (usando o conceito de 'respectivamente') os valores e suas respectivas formas de pagamento.
+
+*> Adaptar as func obter fat semanal by barbeiro de tal forma que ela faça uso da lista de datas da semana armazenada no txt datas_semana,  
+economizando assim requerimentos continuos dos mesmos dados. (dica: sempre que for segunda e x == False, ela atualiza)
+
+> Fazer função que obtenha o total de bebidas vendidas na semana
+
+*> Trocar a forma de selecionar profissional na hora de registrar uma entrada: por meio de radiobuttons.
+
+> fazer o Entry dos valores desconsiderarem espaços vazios no inicio da string
